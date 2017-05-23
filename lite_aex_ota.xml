@@ -3,8 +3,8 @@
   <RomName>AOSPExtended_4.2</RomName>
   <VersionName>lite_aex_mod_1.0.5-1</VersionName>
   <VersionNumber type="integer">20170525</VersionNumber>
-  <DirectUrl>http://4pda@185.123.15.250/kenzo/O_dinochka/lite/AEX/1.0.5-1.zip</DirectUrl>
-  <HttpUrl>http://4pda@185.123.15.250/kenzo/O_dinochka/lite/AEX/1.0.5-1.zip</HttpUrl>
+  <DirectUrl>http://185.123.15.250/kenzo/O_dinochka/lite/AEX/1.0.5-1.zip</DirectUrl>
+  <HttpUrl>http://185.123.15.250/kenzo/O_dinochka/lite/AEX/1.0.5-1.zip</HttpUrl>
   <Android>7.1.2</Android>
   <CheckMD5>C8B71983CEFAE931CC8309DE7BF30B8C</CheckMD5>
   <FileSize type="integer">422264073</FileSize>
